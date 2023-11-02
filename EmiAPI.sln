@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmiAPI", "EmiAPI\EmiAPI.csproj", "{4F4136B0-1343-4154-8FBD-79D8D09F825E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F4136B0-1343-4154-8FBD-79D8D09F825E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F4136B0-1343-4154-8FBD-79D8D09F825E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F4136B0-1343-4154-8FBD-79D8D09F825E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F4136B0-1343-4154-8FBD-79D8D09F825E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FB9944A-A112-46E3-94FD-AFBCD10C0843}
+	EndGlobalSection
+EndGlobal
